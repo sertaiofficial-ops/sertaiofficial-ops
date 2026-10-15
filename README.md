@@ -4,7 +4,7 @@
 
 I'm Sertaç Avdaç, the creator behind SERTAI, an independent music project where songwriting, sound design, cinematic storytelling and digital technology come together.
 
-*Behind the mask is a creator, not a mystery.*
+*Behind every sound is a deliberate decision, not a mystery.*
 
 My work begins with music and extends into the world surrounding it: visual narratives, digital characters, release campaigns, creative websites and experimental production workflows.
 
@@ -19,7 +19,7 @@ I use a combination of audio production software, vocal direction, AI-assisted v
 
 This GitHub space documents the technical side of that work: experiments, utilities, workflow improvements and projects developed around the SERTAI ecosystem.
 
-*The mask tells the story. The music is the truth.*
+*The story is in the visuals. The truth is in the music.*
 
 🌐 [Official Website](https://sertaiofficial.com)
 
